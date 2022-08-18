@@ -1,0 +1,15 @@
+.idea/
+*.iml
+*.iws
+.sonar/
+.sonarlint/
+.vscode/
+run_server.sh
+debug.log
+.git/
+.DS_Store
+build-docker.sh
+README.md
+Dockerfile
+.eslintrc
+
