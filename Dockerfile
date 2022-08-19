@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
-LABEL AUTHOR "Thuan Doan <thuandv7@gmail.com>"
+LABEL AUTHOR "LangNT"
 
 ENV PORT=8080
 ENV ROOT=/opt/my-app
